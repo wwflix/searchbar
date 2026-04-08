@@ -55,6 +55,6 @@ body {
 .active .input {
 width: 0;
 }
-.mic-icon {
+.active .mic-icon {
 width: 0;
 }
